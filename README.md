@@ -17,8 +17,7 @@ Log
 * Added LBHelpers.psm1 file.  (2015-03-08)
 * Added files to be downloaded (2015-03-05)
 * Added header level 4 (2014-10-31)
-<<<<<<< HEAD
-* Forked, see if you can pull!
-=======
-* Adding a level for pull request practice
->>>>>>> refs/remotes/origin/master
+
+Contributors
+====
+* Luke-BG (2016-01-06)
